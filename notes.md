@@ -41,7 +41,7 @@ comment
 validations <<< after setting your models >>>
 
 
-now where???
+Login/signup flow 
  => home page
     - sessions controller 
  => signup 
